@@ -1,6 +1,5 @@
 # AI & ML Works by Anjali Rai
-
-This repository contains my collection of AI and ML projects, ranging from beginner-level tutorials to advanced implementations. Each project/notebook focuses on a different concept or technique in Machine Learning, Data Analysis, and Computer Vision.
+Welcome to my AI & Machine Learning portfolio, featuring hands-on projects that demonstrate data analysis, predictive modeling, and AI-driven solutions.
 
 ## Notebooks & Files
 

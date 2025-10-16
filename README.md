@@ -29,7 +29,8 @@ This repository contains my collection of AI and ML projects, ranging from begin
 - [Anomaly Detection](Anomaly%20Detection.ipynb)  
 
 ### Data Visualization
-- [Bokeh Visualization](Bokeh_visualization.ipynb)  
+- [Bokeh Visualization](Bokeh_visualization.ipynb)
+- [Plotly Visualization](plotly_visualization.ipynb) 
 
 ### Computer Vision
 - [Computer Vision Projects Folder](COMPUTER%20VISION)  

@@ -4,6 +4,9 @@ This repository contains my collection of AI and ML projects, ranging from begin
 
 ## Notebooks & Files
 
+### Data Cleaning & Preprocessing
+- [Data Cleaning - Smartphone Dataset](data-cleaning-smartphone-dataset.ipynb)  
+
 ### Data Analysis & EDA
 - [EDA student performance](EDA%20student%20performance.ipynb)  
 - [EDA with red wine](EDA%20with%20red%20wine.ipynb)  
@@ -15,7 +18,9 @@ This repository contains my collection of AI and ML projects, ranging from begin
 - [NAIVE BAYES](NAIVE%20BAYES%20.ipynb)  
 - [Logistic Regression for Obesity Classification](logistic-regression-for-obesity-classification.ipynb)  
 - [Password Strength Classifier using Logistic Regression](password-strength-classifier-logistic-regression.ipynb)  
-- [Binary Classification on Mushroom Dataset](binary-classification-mushroom-dataset.ipynb)  
+- [Binary Classification on Mushroom Dataset](binary-classification-mushroom-dataset.ipynb) -
+- [Credit Card Fault Detection](credit_card_fault_detection.ipynb)  
+
 
 ### Clustering & Dimensionality Reduction
 - [K Means Clustering](K%20Means%20Clustering.ipynb)  
@@ -34,10 +39,6 @@ This repository contains my collection of AI and ML projects, ranging from begin
 
 ### Computer Vision
 - [Computer Vision Projects Folder](COMPUTER%20VISION)  
-
-### Data Cleaning & Preprocessing
-- [Data Cleaning - Smartphone Dataset](data-cleaning-smartphone-dataset.ipynb)  
-- [Credit Card Fault Detection](credit_card_fault_detection.ipynb)  
 
 ## 🔗 Featured End-to-End Projects
 
